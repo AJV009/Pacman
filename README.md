@@ -1,2 +1,6 @@
 # Pacman
 A simple PACMAN game developed in C Graphics. Complied and ran in TurboC++.
+
+pacman.h includes links to other header files.
+
+## And yeah TurboC++ runs on borland compiler!
